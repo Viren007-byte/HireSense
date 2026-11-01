@@ -1,0 +1,1 @@
+Python backend developer with experience in FastAPI, SQL, PostgreSQL, Docker, Git, and REST APIs.
